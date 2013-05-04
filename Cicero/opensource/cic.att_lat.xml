@@ -749,7 +749,7 @@ Added encodingDesc and revisionDesc.
               unit="para"/>
             <milestone n="6" unit="section"/>
             <reg>novi</reg> tibi quidnam scribam? quid? etiam. <name>Messalla</name> consul
-              <name>Autronianam</name> domum emit HS &dagger; <num>C_X_X_X_I_I_I_I_ZZZ</num>
+              <name>Autronianam</name> domum emit HS &dagger; <num>CXXXIIII</num>
             &dagger;. <quote><reg>quid</reg> id ad me?</quote> inquies. <reg>tantum</reg> quod
             ea emptione et nos bene emisse iudicati sumus et homines intellegere coeperunt licere
             amicorum facultatibus in emendo ad dignitatem aliquam pervenire. <name>Teucris</name>
@@ -2512,7 +2512,7 @@ Added encodingDesc and revisionDesc.
           <milestone unit="vulgate-letter" n="19"/>
           <opener>
 
-            <dateline>Scr. Romae mmedio m Quint. a. <date value="-59">695 (59)</date>.</dateline>
+            <dateline>Scr. Romae medio m. Quint. a. <date value="-59">695 (59)</date>.</dateline>
 
             <salute>CICERO ATTICO SAL.</salute>
           </opener>
@@ -2604,7 +2604,7 @@ Added encodingDesc and revisionDesc.
           <milestone unit="vulgate-letter" n="20"/>
           <opener>
 
-            <dateline>Scr. Romae in Quint. a. <date value="-59">695 (59)</date>.</dateline>
+            <dateline>Scr. Romae m. Quint. a. <date value="-59">695 (59)</date>.</dateline>
 
             <salute>CICERO ATTICO SAL.</salute>
           </opener>
@@ -2823,7 +2823,7 @@ Added encodingDesc and revisionDesc.
           <milestone unit="vulgate-letter" n="24"/>
           <opener>
 
-            <dateline>Scr. Romae ammte <date>xv K. Nov.</date> a. 695 (59): fort. m Sext.</dateline>
+            <dateline>Scr. Romae ante <date>xv K. Nov.</date> a. 695 (59): fort. m Sext.</dateline>
 
             <salute>CICERO ATTICO SAL.</salute>
           </opener>
@@ -2912,7 +2912,7 @@ Added encodingDesc and revisionDesc.
           <milestone unit="vulgate-letter" n="25"/>
           <opener>
 
-            <dateline>Scr. Romae ante K. a. <date value="-59">695 (59)</date>: fort. m.
+            <dateline>Scr. Romae ante K. Nov. a. <date value="-59">695 (59)</date>: fort. m.
               Oct.</dateline>
 
             <salute>CICERO ATTICO SAL.</salute>
@@ -5207,7 +5207,7 @@ Added encodingDesc and revisionDesc.
           </opener>
           <milestone n="1" unit="section"/>
           <p>
-            <name>Beneventum</name> veni a. d. <date>v Idus Majas.</date>
+            <name>Beneventum</name> veni a. d. <date>v Idus Maias.</date>
             <reg>ibi</reg> accepi eas litteras quas tu superioribus litteris significaveras te
             dedisse; ad quas ego eo ipso die dederam ex <name>Trebulano</name> a
             <name>Pontio</name>. <reg>ac</reg> binas quidem tuas <name>Beneventi</name> accepi
@@ -6593,7 +6593,7 @@ Added encodingDesc and revisionDesc.
             pendat necesse est. <reg>erat</reg> praeterea cynocephalus in essedo nec deerant onagri.
               <reg>numquam</reg> vidi hominem nequiorem. <reg>sed</reg> extremum audi.
               <reg>deversatus</reg> est <name>Laodiceae</name> apud <name>Pompeium</name>
-            <name>Vindullum</name>. lbi sua deposuit cum ad me profectus est. <reg>moritur</reg>
+            <name>Vindullum</name>. <reg>ibi</reg> sua deposuit cum ad me profectus est. <reg>moritur</reg>
             interim <name>Vindullus</name>; quae res ad <name>Magnum</name>
             <name>Pompeium</name> pertinere putabatur. <persName>C. Vennonius</persName> domum
               <name>Vindulli</name> venit. <reg>cum</reg> omnia obsignaret, in Vedianas res incidit.
@@ -8657,7 +8657,7 @@ Added encodingDesc and revisionDesc.
           <milestone unit="vulgate-letter" n="1"/>
           <opener>
 
-            <dateline>Scr. in Formiano <date>xiv K. Mart</date> a. 705 (49).</dateline>
+            <dateline>Scr. in Formiano <date>xiv K. Mart.</date> a. 705 (49).</dateline>
 
             <salute>CICERO ATTICO SAL.</salute>
           </opener>
@@ -9883,7 +9883,7 @@ Added encodingDesc and revisionDesc.
             et <name>Luccei</name> consilia ac <name>Theophani</name> persequamur. <milestone ed="P"
               unit="para"/>
             <milestone n="4" unit="section"/>
-            <reg>nam</reg> Scinio vel in <name>Syriam</name> proficiscitur sorte vel cum genero
+            <reg>nam</reg> Scipio vel in <name>Syriam</name> proficiscitur sorte vel cum genero
             honeste vel <name>Caesarem</name> fugit iratum. <name>Marcelli</name> quidem, nisi
             gladium <name>Caesaris</name> timuissent, manerent. <name>Appius</name> est eodem in
             timore et inimicitiarum recentium etiam. <reg>praeter</reg> hunc et <persName>C.
@@ -9906,7 +9906,7 @@ Added encodingDesc and revisionDesc.
             <salute>CICERO ATTICO SAL.</salute>
           </opener>
           <milestone n="1" unit="section"/>
-          <p> Ets<date>i Nonis Martiis</date> die tuo, ut opinor, exspectabam epistulam a te
+          <p> <reg>etsi</reg> <date>Nonis Martiis</date> die tuo, ut opinor, exspectabam epistulam a te
             longiorem, tamen ad eam ipsam brevem quam IIII <name>Nonas</name>
             <foreign lang="greek">u(po\ th\n dialh=yin</foreign> dedisti rescribendum putavi.
               <reg>gaudere</reg> ais te mansisse me et scribis in sententia te manere.
@@ -11813,7 +11813,7 @@ Added encodingDesc and revisionDesc.
               <name>Sullanus</name> callidissimo viro <persName>C. Mario</persName>, si nihil
             utrumque eorum <pb/> fefellisset. <reg>nos</reg> tamen hoc confirmamus illo augurio quo
             diximus, nec nos fallit nec aliter accidet. <milestone unit="section" n="8"
-              />c<reg>corruat</reg> iste necesse est aut per adversarios aut ipse per se qui quidem
+              /><reg>corruat</reg> iste necesse est aut per adversarios aut ipse per se qui quidem
             sibi est adversarius unus acerrimus. <reg>id</reg> spero vivis nobis fore; quamquam
             tempus est nos de illa perpetua iam, non de hac exigua vita cogitare. <reg>sin</reg>
             quid acciderit maturius, haud sane mea multum interfuerit utrum factum [fiat] videam an
