@@ -61,7 +61,7 @@
                <name>AEM</name>
                <resp>markup</resp>
             </respStmt>
-            <item> 
+            <item>
 $Log: hau_lat.xml,v $
 Revision 1.3  2010-09-03 15:34:29  rsingh04
 cleaned up log keyword
@@ -69,46 +69,46 @@ cleaned up log keyword
 Revision 1.2  2010/07/08 18:47:39  student
 fixed place tags - zr
 
-Revision 1.1 2009/12/08 20:46:27 rsingh04 
+Revision 1.1 2009/12/08 20:46:27 rsingh04
 moved more xml files around based on copyright status. renamed terence files to follow the
-abbreviations and split up minora_lat.xml into separate files 
+abbreviations and split up minora_lat.xml into separate files
 
-Revision 1.5 2009/09/10 18:30:03 lcerrato 
-fixed minor typos 
+Revision 1.5 2009/09/10 18:30:03 lcerrato
+fixed minor typos
 
-Revision 1.4 2008/11/14 21:28:07 lcerrato 
-fixed author names for consistent sorting 
+Revision 1.4 2008/11/14 21:28:07 lcerrato
+fixed author names for consistent sorting
 
 Revision 1.3 2006/02/10 20:50:42 packel
-places/dates now actually tagged 
+places/dates now actually tagged
 
 Revision 1.2 2005/08/01 16:31:41 packel removed
-stray item tags 
+stray item tags
 
-Revision 1.1 2005/07/25 15:05:00 packel 
-Converted to XML 
+Revision 1.1 2005/07/25 15:05:00 packel
+Converted to XML
 
-Revision 1.7 2003/07/01 22:18:13 yorkc 
+Revision 1.7 2003/07/01 22:18:13 yorkc
 Updated texts to TEI P4 and Perseus P4 extensions; minor
-cleanup (esp. character encodings and typos.) 
+cleanup (esp. character encodings and typos.)
 
-Revision 1.6 2001/12/21 17:34:27 amahoney 
-fix the 'j's in the English section 
+Revision 1.6 2001/12/21 17:34:27 amahoney
+fix the 'j's in the English section
 
-Revision 1.5 2001/12/19 21:58:41 amahoney 
-fix some OCR errors and modernize aedepol to edepol 
+Revision 1.5 2001/12/19 21:58:41 amahoney
+fix some OCR errors and modernize aedepol to edepol
 
-Revision 1.4 2001/08/21 18:54:24 amahoney 
-get the editor's name into the meta-data 
+Revision 1.4 2001/08/21 18:54:24 amahoney
+get the editor's name into the meta-data
 
-Revision 1.3 2001/08/17 15:32:09 amahoney 
+Revision 1.3 2001/08/17 15:32:09 amahoney
 fix line numbers in the English, pick up a few typos in Latin
 
-Revision 1.2 2001/07/02 21:01:51 amahoney 
+Revision 1.2 2001/07/02 21:01:51 amahoney
 add through lines, drop the headers,
-generally tidy up for release 
+generally tidy up for release
 
-Revision 1.1 2001/07/02 19:27:22 amahoney 
+Revision 1.1 2001/07/02 19:27:22 amahoney
 new additions
             </item>
          </change>
