@@ -114,6 +114,7 @@ Added to repository.
 <body>
 
 <div1 type="act" n="1">
+<div2 type="scene" n="1">
 <cit n="1">
 <bibl>Non.342M</bibl>
 <quote><lb ed="TLN" n="1"/><l>qu&iacute;bus ingenium in animo utibilest, modicum et sine vernilitate</l></quote>
@@ -232,7 +233,6 @@ Added to repository.
 <quote><lb ed="TLN" n="31"/><l>Arabus</l></quote>
 </cit>
 
-<div2 type="scene" n="1">
 <sp><speaker>Bacchis.</speaker>
 <lb ed="TLN" n="35"/><l part="I">Qu&iacute;d si hoc potis est &uacute;t tu taceas, &eacute;go loquar?</l></sp>
 
