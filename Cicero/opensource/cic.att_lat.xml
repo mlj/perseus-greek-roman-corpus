@@ -3064,7 +3064,7 @@ Added encodingDesc and revisionDesc.
               <reg>quoniam</reg> id non contigit, erit hoc quoque in magno numero nostrorum malorum.
               <reg>nobis</reg> iter est in <name>Asiam</name>, maxime <name>Cyzicum</name>.
               <reg>meos</reg> tibi commendo. <reg>me</reg> vix misereque sustento. <reg>data</reg>
-              x<date>iiii K. Maias</date> de <name>Tarentino</name>. </p>
+              <date>xiiii K. Maias</date> de <name>Tarentino</name>. </p>
         </div2>
 
         <div2 type="letter" n="7">
@@ -3501,7 +3501,7 @@ Added encodingDesc and revisionDesc.
             velis esse aliquem, quoniam qui fui et qui esse potui iam esse non possum, et ut his
             litteris non te sed me ipsum a me esse accusatum putes. <reg>si</reg> qui erunt quibus
             putes opus esse meo nomine litteras dari, velim conscribas curesque dandas.
-              <reg>data</reg> x<date>iiii Kal. Sept.</date>
+              <reg>data</reg> <date>xiiii Kal. Sept.</date>
           </p>
         </div2>
 
@@ -5813,7 +5813,7 @@ Added encodingDesc and revisionDesc.
           <milestone n="1" unit="section"/>
           <p>
             <reg>quam</reg> vellem <name>Romae</name> esses, si forte non es! <reg>nihil</reg> enim
-            certi habebamus nisi accepisse nos tuas litteras a. d. x<date>iiii Kal. Sextil.</date>
+            certi habebamus nisi accepisse nos tuas litteras a. d. <date>xiiii Kal. Sextil.</date>
             datas, in quibus scriptum esset te in <name>Epirum</name> iturum circiter Kal. Sextil.
               <reg>sed</reg> sive <name>Romae</name> es sive in <name>Epiro</name>,
               <name>Parthi</name> Euphraten transierunt duce <name>Pacoro</name>,
@@ -9566,7 +9566,7 @@ Added encodingDesc and revisionDesc.
           <milestone n="1" unit="section"/>
           <p>
             <reg>litteras</reg> abs te <persName>M. Calenius</persName> ad me attulit a. d.
-              x<date>iiii Kal. Martias</date>; in quibus litteris scribis tibi in animo esse
+              <date>xiiii Kal. Martias</date>; in quibus litteris scribis tibi in animo esse
             observare <name>Caesarem</name> et, si secundum mare ad me ire coepisset, confestim in
               <name>Samnium</name> ad me venturum, sin autem ille circum istaec loca commoraretur,
             te ei, si propius accessisset resistere velle. <milestone ed="P" unit="para"
@@ -12469,7 +12469,7 @@ Added encodingDesc and revisionDesc.
           </opener>
           <milestone n="1" unit="section"/>
           <p>
-            <name>Tullia</name> mea peperit x<date>iiii K. Iun.</date> puerum <foreign lang="greek"
+            <name>Tullia</name> mea peperit <date>xiiii K. Iun.</date> puerum <foreign lang="greek"
               >e(ptamhniai=on</foreign>. <reg>quod</reg>
             <foreign lang="greek">eu)to/khsen</foreign> gaudeo; quod quidem est natum perimbecillum
             est. <reg>me</reg> mirificae tranquillitates adhuc tenuerunt atque maiori impedimento
@@ -12859,7 +12859,7 @@ Added encodingDesc and revisionDesc.
             <milestone n="8" unit="section"/>
             <reg>quod</reg> rogas ut in bonam partem accipiam si qua sint in tuis litteris quae me
             mordeant, ego vero in optimam teque rogo ut aperte, quem ad modum facis, scribas ad me
-            omnia idque facias quam saepissime. <reg>vale</reg>. x<date>iiii K. Ian.</date>
+            omnia idque facias quam saepissime. <reg>vale</reg>. <date>xiiii K. Ian.</date>
           </p>
         </div2>
 
@@ -12867,7 +12867,7 @@ Added encodingDesc and revisionDesc.
           <milestone unit="vulgate-letter" n="8"/>
           <opener>
 
-            <dateline>Scr. Brundisi x<date>iiii K. Ian.</date> a. 706 (48).</dateline>
+            <dateline>Scr. Brundisi <date>xiiii K. Ian.</date> a. 706 (48).</dateline>
 
             <salute>CICERO ATTICO SAL.</salute>
           </opener>
@@ -14941,7 +14941,7 @@ Added encodingDesc and revisionDesc.
             <name>Corduba</name> exisse et fugisse in <name>Hispaniam</name> citeriorem,
               <name>Gnaeum</name> fugisse nescio quo; neque enim curo. <reg>nihil</reg> praeterea
             novi. <reg>litteras</reg>
-            <name>Narbone</name> dedit x<date>iiii Kal. Maias.</date>
+            <name>Narbone</name> dedit <date>xiiii Kal. Maias.</date>
             <reg>tu</reg> mihi de <name>Canini</name> naufragio quasi dubia misisti.
               <reg>scribes</reg> igitur si quid erit certius. <reg>quod</reg> me a maestitia avocas,
             multum levaris si locum fano dederis. <reg>multa</reg> mihi <foreign lang="greek">ei)s
@@ -17714,7 +17714,7 @@ Added encodingDesc and revisionDesc.
             videre. <milestone ed="P" unit="para"/>
             <milestone n="3" unit="section"/>
             <name>Octavius</name>
-            <name>Neapolim</name> venit x<date>iiii Kal.</date> ibi eum <name>Balbus</name> mane
+            <name>Neapolim</name> venit <date>xiiii Kal.</date> ibi eum <name>Balbus</name> mane
             postridie eodemque die mecum in <name>Cumano</name>, illum hereditatem aditurum.
               <reg>sed</reg>, ut scribis, &dagger;<foreign lang="greek"
             >r(ico/qemin</foreign>&dagger; magnam cum <name>Antonio</name>.
