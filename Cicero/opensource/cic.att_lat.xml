@@ -4526,7 +4526,7 @@ Added encodingDesc and revisionDesc.
           <milestone n="1" unit="section"/>
           <p>
             <reg>delectarunt</reg> me epistulae tuae quas accepi uno tempore duas ante diem <date>v
-              Kal. Perge</date> reliqua. <reg>gestio</reg> scire ista omnia. <reg>etiam</reg> illud
+              Kal.</date> <reg>perge</reg> reliqua. <reg>gestio</reg> scire ista omnia. <reg>etiam</reg> illud
             cuius modi sit velim perspicias; potes a <name>Demetrio</name>. <reg>dixit</reg> mihi
               <name>Pompeius</name>
             <name>Crassum</name> a se in <name>Albano</name> exspectari ante diem iiii Kal.; is cum
@@ -5929,8 +5929,8 @@ Added encodingDesc and revisionDesc.
               <reg>nihil</reg> ea iuris dictione aequabilius, nihil lenius, nihil gravius.
               <milestone ed="P" unit="para"/>
             <milestone n="2" unit="section"/>
-            <reg>inde</reg> in castra veni a. d. VII <name>Kalendas</name>
-            <name>Septembris</name>. A. d. III exercitum lustravi apud <name>Iconium</name>.
+            <reg>inde</reg> in castra veni a. d. <date>VII Kalendas
+            Septembris</date>. <reg>a. d.</reg> <date>III</date> exercitum lustravi apud <name>Iconium</name>.
               <reg>ex</reg> his castris, cum graves de <name>Parthis</name> nuntii venirent, perrexi
             in <name>Ciliciam</name> per <name>Cappadociae</name> partem eam quae
               <name>Ciliciam</name> attingit, eo consilio ut <name>Armenius</name>
@@ -8149,10 +8149,10 @@ Added encodingDesc and revisionDesc.
               <milestone ed="P" unit="para"/>
             <milestone n="3" unit="section"/>
             <name>Labienus</name>, vir mea sententia magnus, <name>Teanum</name> venit a. d.
-              <date>viiii Kal. Ibi</date>
+              <date>viiii Kal.</date> <reg>ibi</reg>
             <name>Pompeium</name> consulesque convenit. <reg>qui</reg> sermo fuerit et quid actum
             sit scribam ad te cum certum <pb/> sciam. <name>Pompeius</name> a <name>Teano</name>
-            <name>Larinum</name> versus profectus est a. d. <date>viii Kal. Eo</date> die mansit
+            <name>Larinum</name> versus profectus est a. d. <date>viii Kal.</date> <reg>eo</reg> die mansit
               <name>Venafri</name>. <reg>iam</reg> aliquantum animi videtur nobis adtulisse
               <name>Labienus</name>. <reg>sed</reg> ego nondum habeo quod ad te ex his locis
             scribam; ista magis exspecto, quid illim adferatur, quo pacto de <name>Labieno</name>
@@ -8257,7 +8257,7 @@ Added encodingDesc and revisionDesc.
             <reg>omnis</reg> arbitror mihi tuas litteras redditas esse sed primas praepostere,
             reliquas ordine quo sunt missae per <name>Terentiam</name>. <reg>de</reg> mandatis
               <name>Caesaris</name> adventuque <name>Labieni</name> et responsis consulum ac
-              <name>Pompei</name> scripsi ad te litteris iis quas a. d. <date>v Kal. Capua</date>
+              <name>Pompei</name> scripsi ad te litteris iis quas a. d. <date>v Kal.</date> <name>Capua</name>
             dedi pluraque praeterea in eandem epistulam conleci. <milestone ed="P" unit="para"/>
             <milestone n="2" unit="section"/>
             <reg>nunc</reg> has exspectationes habemus duas, unam quid <name>Caesar</name> acturus
@@ -13673,7 +13673,7 @@ Added encodingDesc and revisionDesc.
               <quote>igniculum matutinum <foreign lang="greek">gerontiko/n</foreign>,</quote>
             <foreign lang="greek">gerontikw/teron</foreign> est memoriola vacillare. <reg>ego</reg>
             enim <date>iiii Kal. Axio</date> dederam, tibi iii, <name>Quinto</name> quo die
-            venissem, id est <date>v Kal. Hoc</date> igitur habebis, novi <pb/> nihil.
+            venissem, id est <date>v Kal.</date> <reg>hoc</reg> igitur habebis, novi <pb/> nihil.
               <reg>quid</reg> ergo opus erat epistula? <reg>quid</reg>, cum coram sumus et garrimus
             quicquid in buccam? <reg>est</reg> profecto quiddam <foreign lang="greek"
               >le/sxh</foreign>, quae habet, etiam si nihil subest, conlocutione ipsa suavitatem.
