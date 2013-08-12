@@ -594,8 +594,9 @@ Added to repository.
 
 <sp><speaker>Serv.</speaker>
 <lb ed="TLN" n="252"/><l>Quid tu ergo * te manuleo</l>
-<lb ed="TLN" n="253"/><l>* * *</l>
-<lb ed="TLN" n="273"/><l part="I">{(&amp;7Alc&amp;.)} Quid si amo? *</l></sp>
+<lb ed="TLN" n="253"/><l>* * *</l></sp>
+<sp><speaker>(Alc.)</speaker>
+<lb ed="TLN" n="273"/><l part="I">Quid si amo? *</l></sp>
 
 <sp><speaker>(T.)</speaker>
 <l part="M">* est amor</l>
@@ -609,8 +610,9 @@ Added to repository.
 <lb ed="TLN" n="279"/><l n="55">Immo maxumus.</l>
 <lb ed="TLN" n="280"/><l>nam qu&iacute; amant stulte atque inmodeste atque inprobe</l>
 <lb ed="TLN" n="281"/><l>* ne ament.</l>
-<lb ed="TLN" n="282"/><l>* * *</l>
-<lb ed="TLN" n="283"/><l part="I">{(&amp;7Alc&amp;.)} * ubi tu es?</l></sp>
+<lb ed="TLN" n="282"/><l>* * *</l></sp>
+<sp><speaker>(Alc.)</speaker>
+<lb ed="TLN" n="283"/><l part="I">* ubi tu es?</l></sp>
 
 <sp><speaker>Serv.</speaker>
 <l part="M">Ecce me.</l></sp>
@@ -883,8 +885,9 @@ Added to repository.
 <lb ed="TLN" n="458"/><l>quamquam hominem *</l>
 <lb ed="TLN" n="459"/><l>verba dare *</l>
 <lb ed="TLN" n="460"/><l>non illa * qui frangant foedera</l>
-<lb ed="TLN" n="461"/><l n="150">* eos *</l>
-<lb ed="TLN" n="462"/><l>{(&amp;7Sel&amp;.)} dabis.&mdash;</l></sp>
+<lb ed="TLN" n="461"/><l n="150">* eos *</l></sp>
+<sp><speaker>(Sel.)</speaker>
+<lb ed="TLN" n="462"/><l>* dabis.&mdash;</l></sp>
 
 <sp><speaker>Alc.</speaker>
 <lb ed="TLN" n="463"/><l>At eg&oacute; nec do n&eacute;que te am&iacute;ttam hodie, nisi qua&eacute; volo tec&uacute;m loqui</l>
@@ -912,14 +915,16 @@ Added to repository.
 <lb ed="TLN" n="472"/><l>similest ius iurandum amantum quasi ius confusicium.</l></sp>
 
 <sp><speaker>Alc.</speaker>
-<lb ed="TLN" n="473"/><l>Nescia *</l>
-<lb ed="TLN" n="474"/><l>* {(&amp;7Mel&amp;.)} nugas agis.</l>
+<lb ed="TLN" n="473"/><l>Nescia *</l></sp>
+<sp><speaker>Mel.</speaker>
+<lb ed="TLN" n="474"/><l>* nugas agis.</l>
 <lb ed="TLN" n="475"/><l>* * *</l></sp>
 
 <sp><speaker>Alc.</speaker>
 <lb ed="TLN" n="477"/><l n="165">Supplicium dabo *</l>
-<lb ed="TLN" n="478"/><l>quo modo ego *</l>
-<lb ed="TLN" n="479"/><l>* {(&amp;7Mel&amp;.)} quia es nactus novam,</l>
+<lb ed="TLN" n="478"/><l>quo modo ego *</l></sp>
+<sp><speaker>(Mel.)</speaker>
+<lb ed="TLN" n="479"/><l>* quia es nactus novam,</l>
 <lb ed="TLN" n="480"/><l>quae * quaedam quasi tu nescias.</l>
 <lb ed="TLN" n="481"/><l part="I">*</l></sp>
 
@@ -940,11 +945,14 @@ Added to repository.
 <lb ed="TLN" n="486"/><l>nunc hoc si tibi commodumst, quae *</l></sp>
 
 <sp><speaker>Alc.</speaker>
-<lb ed="TLN" n="487"/><l n="175">Instruxi illi aurum atque vestem. {(&amp;7Mel&amp;.)} *</l>
+<lb ed="TLN" n="487"/><l n="175">Instruxi illi aurum atque vestem. *</l></sp>
+<sp><speaker>(Mel.)</speaker>
 <lb ed="TLN" n="488"/><l>siquidem amabas, * illi instrui.</l>
 <lb ed="TLN" n="489"/><l>sed sino. iam hoc mihi responde quod &lt;ego&gt; te rogavero:</l>
 <lb ed="TLN" n="490"/><l>instruxisti *</l>
-<lb ed="TLN" n="491"/><l>tibi ita ut voluisti * {(&amp;7Alc&amp;.)} quod volo.</l></sp>
+<lb ed="TLN" n="491"/><l>tibi ita ut voluisti *</l></sp>
+<sp><speaker>(Alc.)</speaker>
+<l part="M">quod volo.</l></sp>
 
 <sp><speaker>Mel.</speaker>
 <lb ed="TLN" n="492"/><l n="180">Eo <abbr expan="facetus es">facetu's</abbr> quia tibi aliast sponsa locuples Lemnia.</l>
