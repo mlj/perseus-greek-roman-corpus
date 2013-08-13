@@ -14,6 +14,13 @@
         <editor role="editor" n="OCT">L. C. Purser</editor> &responsibility; &fund.NEH;
       </titleStmt> &Perseus.publish; <sourceDesc>
         <p>Scanned printed text </p>
+        <biblStruct>
+          <monogr>
+            <imprint>
+              <date>1903</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
       </sourceDesc>
     </fileDesc>
 
