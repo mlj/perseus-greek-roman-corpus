@@ -41,7 +41,7 @@
           <name>David Smith</name>
           <resp>ed.</resp>
         </respStmt>
-        <item> 
+        <item>
 $Log: cic.pet_lat.xml,v $
 Revision 1.3  2010-09-03 15:34:29  rsingh04
 cleaned up log keyword
@@ -49,26 +49,26 @@ cleaned up log keyword
 Revision 1.2  2010/06/03 21:27:39 student
 putting in page numbers - AD
 
-Revision 1.1 2009/10/09 19:49:16 rsingh04 
-more reorganizing of texts module by collection 
+Revision 1.1 2009/10/09 19:49:16 rsingh04
+more reorganizing of texts module by collection
 
-Revision 1.2 2005/08/01 15:59:20 packel 
-removed stray item tags 
+Revision 1.2 2005/08/01 15:59:20 packel
+removed stray item tags
 
-Revision 1.1 2005/07/25 14:31:26 packel 
-Converted to XML 
+Revision 1.1 2005/07/25 14:31:26 packel
+Converted to XML
 
-Revision 1.6 2003/07/01 22:14:59 yorkc 
+Revision 1.6 2003/07/01 22:14:59 yorkc
 Updated texts to TEI P4 and Perseus P4 extensions; minor cleanup (esp.
-character encodings and typos.) 
+character encodings and typos.)
 
-Revision 1.5 2001/02/16 19:58:40 amahoney 
-change author to Quintus, not Marcus 
+Revision 1.5 2001/02/16 19:58:40 amahoney
+change author to Quintus, not Marcus
 
-Revision 1.4 2000/03/05 02:06:57 dasmith 
-Added responsibility and funder info to TEI header. 
+Revision 1.4 2000/03/05 02:06:57 dasmith
+Added responsibility and funder info to TEI header.
 
-Revision 1.3 1999/08/05 22:11:58 dasmith 
+Revision 1.3 1999/08/05 22:11:58 dasmith
 Tweaked header.
         </item>
       </change>

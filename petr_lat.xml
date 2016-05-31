@@ -1,8 +1,8 @@
-<?xml version="1.0"?> 
-<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [ 
-<!ENTITY % TEI.XML "INCLUDE"> 
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" > 
-%PersProse; 
+<?xml version="1.0"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
+<!ENTITY % TEI.XML "INCLUDE">
+<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
+%PersProse;
 ]>
 <TEI.2>
     <teiHeader type="text" status="new">
@@ -18,7 +18,7 @@
                     <monogr>
                     	<author>Petronius Arbiter</author>
                         <title>Petronius</title>
-                    	<editor role="editor" n="Heseltine">Michael Heseltine</editor>                        
+                    	<editor role="editor" n="Heseltine">Michael Heseltine</editor>
                     	<imprint>
                             <pubPlace>London</pubPlace>
                             <publisher>William Heinemann</publisher>
@@ -54,7 +54,7 @@
 	<text>
 		<body>
 			<pb id="p.2"/>
-            
+
 			<div1 type="text" n="Satyricon"><head>TITI PETRONI ARBITRI SATYRICON</head>
             <p>
                 <milestone unit="section" n="1"/>
@@ -3776,7 +3776,7 @@
                 <l>| Itaque ad casae ostiolum processi . . .</l>
             </quote><note place="marg">
                 <hi rend="italics">O</hi>
-            </note> 
+            </note>
 				<p>|cum ecce tres anseres sacri | qui, ut puto medio<note place="marg"><hi rend="italics">LO</hi>|<hi rend="italics">L</hi></note> die solebant ab anu diaria exigere, |
 					impetum in<note place="marg">
 						<hi rend="italics">LO</hi>
@@ -4292,7 +4292,7 @@
                             rend="italics">V., retaining which</hi> hebes <hi rend="italics">for
                             habet Scaliger.</hi></note></l>
             </quote></p>
-                        
+
         		<milestone unit="section" n="8" />
 <pb id="p.346"/>
             <p><hi rend="italics">81 P.L.M.</hi>
